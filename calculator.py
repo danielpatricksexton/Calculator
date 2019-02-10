@@ -78,5 +78,3 @@ calcButPlus.grid(row = 1, column = 4)
 
 root.geometry("500x500")
 root.mainloop()
-
-# 30 days html
